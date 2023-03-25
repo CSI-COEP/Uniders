@@ -1,10 +1,10 @@
-# chatgpt
+# Visar: The chatbot
 
-A new Flutter project.
+A Flutter based webapp which uses OpenAI to answer all your visa related queries.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter based webapp that hosts the generative AI chatbot Visar. Just ask your visa queries and Visar will answer them for you.
 
 A few resources to get you started if this is your first Flutter project:
 
